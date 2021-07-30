@@ -1,0 +1,15 @@
+html,
+.my {
+  padding: 0;
+    margin: 0;
+    /* font-family: ink; */
+}
+@font-face {
+  font-family: 'mc';
+  src: url('/fonts/Minecraft.ttf');
+  
+}
+@font-face{
+  font-family: ink;
+  src: url('/fonts/ink.ttf')
+}
